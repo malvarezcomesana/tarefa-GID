@@ -184,7 +184,7 @@ prisa-us-eu.map.fastly.net. 15	IN	A	151.101.134.133
 ```
 
 
-##6. Máquinas detrás de www.google.com
+## 6. Máquinas detrás de www.google.com
 
 ```bash
 dig www.google.es
